@@ -1,0 +1,26 @@
+para carro
+av 30
+gd 90
+av 50
+gd 45
+gd 45
+gd 45
+gd 45
+gd 45
+gd 45
+gd 45
+av 30
+gd 45
+av 60
+gd 45
+av 30
+gd 45
+av 30
+gd 90
+av 125
+circle 20
+ave -100
+circle 20
+av 125
+fin
+
